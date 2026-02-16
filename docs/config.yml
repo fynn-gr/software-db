@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: fynn-gr/software-db
-  branch: mliven
+  branch: live
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
